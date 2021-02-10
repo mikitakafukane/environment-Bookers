@@ -46,5 +46,3 @@ class BooksController < ApplicationController
   end
   
 end
-
-cd ../
